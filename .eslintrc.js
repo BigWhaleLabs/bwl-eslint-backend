@@ -13,6 +13,8 @@ module.exports = {
     '/node_modules/',
     '.eslintrc.*',
     '.eslintrc',
+    'jest.config.js',
+    'jest.config.ts',
     'vite.config.ts',
     'vite.config.js',
     '*.min.js',
