@@ -31,6 +31,7 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   rules: {
+    'node/no-process-env': 'error',
     'sort-keys-fix/sort-keys-fix': 'error',
     'no-relative-import-paths/no-relative-import-paths': [
       'error',
