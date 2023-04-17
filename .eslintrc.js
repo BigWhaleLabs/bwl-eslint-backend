@@ -11,7 +11,8 @@ module.exports = {
   },
   ignorePatterns: [
     '/node_modules/',
-    '.eslintrc.js',
+    '.eslintrc.*',
+    '.eslintrc',
     'vite.config.ts',
     'vite.config.js',
     '*.min.js',
