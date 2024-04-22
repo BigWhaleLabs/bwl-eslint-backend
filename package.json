@@ -10,7 +10,7 @@
     "url": "git+https://github.com/BigWhaleLabs/bwl-eslint-backend.git"
   },
   "scripts": {
-    "release": "np --any-branch"
+    "release": "np --any-branch --no-tests"
   },
   "keywords": [],
   "author": "",
